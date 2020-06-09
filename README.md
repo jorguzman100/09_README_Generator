@@ -1,13 +1,27 @@
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/jorguzman100/02_Responsive_Portfolio.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jorguzman100/02_Responsive_Portfolio/context:javascript)
+![shields.io](https://img.shields.io/github/languages/top/jorguzman100/02_Responsive_Portfolio)
+![shields.io](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fjorguzman100.github.io%2F02_Responsive_Portfolio%2F)
+
+![shields.io](https://img.shields.io/badge/Repo%20Status-In%20Progress-yellow)
+![shields.io](https://img.shields.io/bitbucket/issues/jorguzman100/06_Weather_Dashboard)
+
 # Title
 
 Project description ...
 
 ## Table of contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Title](#title)
+  - [Table of contents](#table-of-contents)
+  - [The challenge](#the-challenge)
+  - [The development process](#the-development-process)
+  - [The Output / Usage](#the-output--usage)
+  - [Installation](#installation)
+  - [Credits, tools and other references](#credits-tools-and-other-references)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## The challenge
 
@@ -15,7 +29,9 @@ Challenge description ...
 
 Main elements:
 
-- [x] Cities search functionality.
+- [x] Element
+- [x] Element
+- [x] Element
 
 ## The development process
 
@@ -44,6 +60,7 @@ With the described process we were able to create a useful, efficient and respon
 3. As a <role> I can <capability>, so that <receive benefit>
 
 **The application**
+
 ![](picture url)
 
 ## Installation
@@ -54,44 +71,27 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 You can access the deployed application with the GitHup Pages link:
 [https://jorguzman100.github.io/06_Weather_Dashboard/](https://jorguzman100.github.io/06_Weather_Dashboard/)
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 To install the project follow these steps:
 
-- ...
+1. Step
+2. Step
+3. Step
 
 ## Credits, tools and other references
 
-List your collaborators, if any, with links to their GitHub profiles.
+**Colaborators**
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+[Name](http:"#")
 
-If you followed tutorials, include links to those here as well.
+[Name](http:"#")
+<creator><GitHub Profile>
 
-[Bootstrap](https://getbootstrap.com/)
+**Third Party Assets**
 
-[Font Awesome](https://fontawesome.com/)
-
-[Website Grader](https://website.grader.com/)
-
-[Markup Validation Service](https://validator.w3.org/)
-
-[Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
-
-[Semantic HTML](https://teamtreehouse.com/library/semantic-html-header-footer-and-section)
-
-[Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
-
-[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown#_markdown-preview)
-
-[Make a README](https://www.makeareadme.com/#template)
-
-[Interactive tutorial](https://commonmark.org/help/tutorial/)
-
-[Bootstrap](https://getbootstrap.com/)
+[Creator](http:"#")
+<creator><Primary web presence>
 
 [Balsamiq](https://balsamiq.com/)
-
-[Font Awesome](https://fontawesome.com/)
 
 [Canvas](https://www.canva.com/)
 
@@ -103,58 +103,30 @@ If you followed tutorials, include links to those here as well.
 
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background)
+[Moment.js](https://momentjs.com/)
 
-[Markup Validation Service](https://validator.w3.org/)
-
-[Semantic HTML](https://teamtreehouse.com/library/semantic-html-header-footer-and-section)
+[CSS Materialize](https://materializecss.com/)
 
 [Bootstrap](https://getbootstrap.com/)
 
+[Test CORS](https://www.test-cors.org/)
+
 [Font Awesome](https://fontawesome.com/)
 
-[Moment.js](https://momentjs.com/)
-
-[OpenWeather](https://openweathermap.org/)
-
-[Windy Map](https://www.windy.com/)
+[Google’s Material Icons](https://google.github.io/material-design-icons/)
 
 [Website Grader](https://website.grader.com/)
 
 [Markup Validation Service](https://validator.w3.org/)
 
-- [The CocktailDB](https://www.thecocktaildb.com/)
+**Tutorials**
 
-- [Giphy](https://developers.giphy.com/)
-
-- [New York Times](https://developer.nytimes.com/)
-
-CSS framework
-
-- [CSS Materialize](https://materializecss.com/)
-
-Third-party API
-
-- [Google’s Material Icons](https://google.github.io/material-design-icons/)
-
-Other tools
-
-- [Test CORS](https://www.test-cors.org/)
-- [Markup Validation Service](https://validator.w3.org/)
+[Name](http:"#")
+<name><link>
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+<The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)>
 
 ## Contributing
 
