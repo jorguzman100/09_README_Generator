@@ -26,8 +26,8 @@ License
   - [Table of contents](#table-of-contents)
   - [The challenge](#the-challenge)
   - [The development process](#the-development-process)
-  - [The Output / Usage](#the-output--usage)
-  - [Installation](#installation)
+  - [The Output](#the-output)
+  - [Installation and Usage](#installation-and-usage)
   - [Credits, tools and other references](#credits-tools-and-other-references)
   - [Contributing](#contributing)
   - [Tests](#tests)
@@ -59,7 +59,7 @@ In order to accomplish the challenge, the following steps were done:
 8. Benchmark the site with WebsiteGrader.
 9. Final review and proper documentation.
 
-## The Output / Usage
+## The Output
 
 With the described process we were able to create a useful, efficient and responsive application that ...
 
@@ -73,7 +73,7 @@ With the described process we were able to create a useful, efficient and respon
 
 ![](picture url)
 
-## Installation
+## Installation and Usage
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
 [https://github.com/jorguzman100/06_Weather_Dashboard](https://github.com/jorguzman100/06_Weather_Dashboard)
@@ -84,6 +84,11 @@ You can access the deployed application with the GitHup Pages link:
 To install the project follow these steps:
 
 1. Step
+
+```
+
+```
+
 2. Step
 3. Step
 
@@ -91,6 +96,7 @@ To install the project follow these steps:
 
 **Colaborators**
 
+Our appreciation for those who have contributed to the project:
 [Name](http:"#")
 
 [Name](http:"#")
@@ -136,7 +142,9 @@ To install the project follow these steps:
 
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+- Pull requests are welcome.
+- For major changes, please open an issue first to discuss what you would like to change.
+- Please make sure to update tests as appropriate.
 
 ## Tests
 
@@ -144,7 +152,7 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ## Questions
 
-xxx
+If you have questions or you want to share comments, we will be glad to hear from you.
 
 - User GitHub profile picture
 - User GitHub email
