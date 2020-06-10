@@ -1,3 +1,9 @@
+# Title
+
+Project description ...
+
+## Badges
+
 Main language and validation
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/jorguzman100/02_Responsive_Portfolio.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jorguzman100/02_Responsive_Portfolio/context:javascript)
@@ -13,13 +19,10 @@ License
 
 ![GitHub](https://img.shields.io/github/license/jorguzman100/06_Weather_Dashboard)
 
-# Title
-
-Project description ...
-
 ## Table of contents
 
 - [Title](#title)
+  - [Badges](#badges)
   - [Table of contents](#table-of-contents)
   - [The challenge](#the-challenge)
   - [The development process](#the-development-process)
