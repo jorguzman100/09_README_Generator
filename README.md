@@ -96,6 +96,7 @@ To install the project follow these steps:
 **Colaborators**
 
 Our appreciation for those who have contributed to the project:
+
 [Name](http:"#")
 
 [Name](http:"#")
