@@ -30,7 +30,6 @@ License
   - [Installation and Usage](#installation-and-usage)
   - [Credits, tools and other references](#credits-tools-and-other-references)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
 
 ## The challenge
@@ -146,13 +145,8 @@ Our appreciation for those who have contributed to the project:
 - For major changes, please open an issue first to discuss what you would like to change.
 - Please make sure to update tests as appropriate.
 
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
-
 ## Questions
 
-If you have questions or you want to share comments, we will be glad to hear from you.
+If you have questions or you want to share comments, we will be glad to hear from you. Please contact us at jorguzman100@gmail.com.
 
-- User GitHub profile picture
-- User GitHub email
+![GitHubProfilePicture](https://avatars3.githubusercontent.com/u/61070430?s=400&u=2b857b54876d926e32fa510d9363e301820b0c03&v=4)
