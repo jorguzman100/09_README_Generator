@@ -1,9 +1,17 @@
+Main language and validation
+
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/jorguzman100/02_Responsive_Portfolio.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jorguzman100/02_Responsive_Portfolio/context:javascript)
 ![shields.io](https://img.shields.io/github/languages/top/jorguzman100/02_Responsive_Portfolio)
 ![shields.io](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fjorguzman100.github.io%2F02_Responsive_Portfolio%2F)
 
+Repository Status
+
 ![shields.io](https://img.shields.io/badge/Repo%20Status-In%20Progress-yellow)
 ![shields.io](https://img.shields.io/bitbucket/issues/jorguzman100/06_Weather_Dashboard)
+
+License
+
+![GitHub](https://img.shields.io/github/license/jorguzman100/06_Weather_Dashboard)
 
 # Title
 
@@ -18,7 +26,6 @@ Project description ...
   - [The Output / Usage](#the-output--usage)
   - [Installation](#installation)
   - [Credits, tools and other references](#credits-tools-and-other-references)
-  - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
@@ -123,10 +130,6 @@ To install the project follow these steps:
 
 [Name](http:"#")
 <name><link>
-
-## License
-
-<The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)>
 
 ## Contributing
 
