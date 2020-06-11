@@ -99,10 +99,15 @@ To install the project follow these steps:
 
 **Third Party Assets**
 
-[Placeholder](https://placeholder.com/)
+[Bootstrap](https://getbootstrap.com/)
 
 Other asset
 
+
+
+[asset1](url1)
+
+[asset2](url2)
 
 
 

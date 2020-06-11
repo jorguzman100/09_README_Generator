@@ -159,7 +159,8 @@ To install the project follow these steps:
             console.log('Answers: ', answers);
             console.log('Include Others Assets: ', answers.assets.includes('Other'));
             if (answers.assets.includes('Other')) {
-                const otherAssets = [];
+                console.log('data.assets: ', data.assets);
+                let otherAssets = ``;
                 const askAsset = () => {
                     inquirer.prompt([
                         {
@@ -179,10 +180,7 @@ To install the project follow these steps:
                             default: 'y',
                         }
                     ]).then((answers3) => {
-                        otherAssets.push({
-                            name: answers3.otherAssetsName,
-                            url: answers3.otherAssetsUrl,
-                        });
+                        otherAssets += `[${answers3.otherAssetsName}](${answers3.otherAssetsUrl})\n\n`;
                         if (answers3.continue === 'y') {
                             askAsset();
                         } else {

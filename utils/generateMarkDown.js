@@ -65,6 +65,7 @@ ${data.usage}
 
 ${data.assets}
 
+${data.otherAssets}
 
 ## Contributing
 
