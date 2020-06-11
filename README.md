@@ -4,7 +4,7 @@ Project description ...
 
 ## Badges
 
-Main language and validation
+Code quality and validation
 
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/jorguzman100/02_Responsive_Portfolio.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jorguzman100/02_Responsive_Portfolio/context:javascript)
 ![shields.io](https://img.shields.io/github/languages/top/jorguzman100/02_Responsive_Portfolio)
