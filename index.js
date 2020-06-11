@@ -287,9 +287,11 @@ If you have questions or you want to share comments, we will be glad to hear fro
                         console.log(fileData);
     })
     .then(() => {
-        fs.writeFile('README-test.md', fileData, (err) => {
+        fs.writeFile('README.md', fileData, (err) => {
             if (err) {
                 console.log('An error occurred: ', err);
+            } else {
+                console.log('README.md file created!');
             }
         });
     });
