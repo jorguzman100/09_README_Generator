@@ -1,5 +1,5 @@
 
-# README Generator - Still testing
+# Test 4
 
 Project description text text text text
 
@@ -97,29 +97,16 @@ To install the project follow these steps:
 
 ## Credits, tools and other references
 
-**Colaborators**
-
-Our appreciation for those who have contributed to the project:
-
-[Name](http:"#")
-
-[Name](http:"#")
-<creator><GitHub Profile>
-
 **Third Party Assets**
 
-[Creator](http:"#")
-<creator><Primary web presence>
-
 [Bootstrap](https://getbootstrap.com/)
+
 [Website Grader](https://website.grader.com/)
+
 [Markup Validation Service](https://validator.w3.org/)
 
 
-**Tutorials**
 
-[Name](http:"#")
-<name><link>
 
 ## Contributing
 

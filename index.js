@@ -144,7 +144,7 @@ To install the project follow these steps:
         answers.assets.forEach((asset) => {
             assetsDetails.forEach((assetDetail) => {
                 if (Object.keys(assetDetail)[0] === asset) {
-                    assetsDetailed += Object.values(assetDetail)[0] + '\n'
+                    assetsDetailed += Object.values(assetDetail)[0] + '\n\n'
                 }
             })
         });
@@ -250,26 +250,10 @@ ${data.usage}
 
 ## Credits, tools and other references
 
-**Colaborators**
-
-Our appreciation for those who have contributed to the project:
-
-[Name](http:"#")
-
-[Name](http:"#")
-<creator><GitHub Profile>
-
 **Third Party Assets**
-
-[Creator](http:"#")
-<creator><Primary web presence>
 
 ${data.assets}
 
-**Tutorials**
-
-[Name](http:"#")
-<name><link>
 
 ## Contributing
 
