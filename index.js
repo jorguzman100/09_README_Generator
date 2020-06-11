@@ -206,7 +206,7 @@ To install the project follow these steps:
 }
 
 function writeFile(dataForFile) {
-    fs.writeFile('Dinamic_README.md', fileData, (err) => {
+    fs.writeFile('README.md', fileData, (err) => {
         if (err) {
             console.log('An error occurred: ', err);
         } else {
