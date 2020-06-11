@@ -93,11 +93,10 @@ With the described process we were able to create a useful, efficient and respon
 
 1. As a <role> I can <capability>, so that <receive benefit>
 2. As a <role> I can <capability>, so that <receive benefit>
-3. As a <role> I can <capability>, so that <receive benefit>
 
 **The application**
 
-![](picture url)
+![](url)
 `,
             },
 
@@ -111,7 +110,7 @@ To install the project follow these steps:
 
 1. Step
 2. Step
-3. Step
+
 `,
             },
 
