@@ -1,7 +1,7 @@
 
-# Testing project
+# Project Title
 
-Some desciption typed from the terminal
+Project description text text text text
 
 ## Badges
 
@@ -36,11 +36,11 @@ License
 ## The challenge
 
 
-Challenge edited
+Challenge description ...
 
 Main elements:
 
-- [x] Element edited
+- [x] Element
 - [x] Element
 - [x] Element
 
@@ -75,7 +75,7 @@ With the described process we were able to create a useful, efficient and respon
 
 **The application**
 
-![](./images/screenshot)
+![](./images/screenshot.png)
 
 
 ## Installation and Usage
@@ -98,13 +98,11 @@ To install the project follow these steps:
 
 **Third Party Assets**
 
-[Bootstrap](https://getbootstrap.com/)
-
 Other asset
 
 
 
-[npm](npmurlwebpage)
+[npm](http:www.npm.com)
 
 
 
