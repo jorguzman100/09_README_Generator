@@ -1,4 +1,3 @@
-
 # Test
 
 Project description text text text text
@@ -22,7 +21,7 @@ License
 
 ## Table of contents
 
-- [Title](#title)
+- [Test](#test)
   - [Badges](#badges)
   - [Table of contents](#table-of-contents)
   - [The challenge](#the-challenge)
@@ -35,18 +34,15 @@ License
 
 ## The challenge
 
-
 Challenge description ...
 
- elements:
+elements:
 
 - [x] Element
 - [x] Element
 - [x] Element
-
 
 ## The development process
-
 
 In order to accomplish the challenge, the following steps were taken:
 
@@ -62,9 +58,7 @@ In order to accomplish the challenge, the following steps were taken:
 8. Benchmark the site with WebsiteGrader.
 9. Final review and proper documentation.
 
-
 ## The Output
-
 
 With the described process we were able to create a useful, efficient and responsive application that ...
 
@@ -75,8 +69,11 @@ With the described process we were able to create a useful, efficient and respon
 
 **The application**
 
-![](./images/screenshot.png)
-
+![Video](./video/appvideo.mp4)
+![screenshot1](./images/screenshot1.png)
+![screenshot1](./images/screenshot2.png)
+![screenshot1](./images/screenshot3.png)
+![screenshot1](./images/screenshot4.png)
 
 ## Installation and Usage
 
@@ -86,13 +83,10 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 You can access the deployed application with the GitHup Pages link:
 [https://jorguzman100.github.io/09_README_Generator/](https://jorguzman100.github.io/09_README_Generator/)
 
-
 To install the project follow these steps:
 
 1. Step
 2. Step
-
-
 
 ## Credits, tools and other references
 
@@ -100,11 +94,7 @@ To install the project follow these steps:
 
 Other asset
 
-
-
 [npm](http://www.npm.com)
-
-
 
 ## Contributing
 
@@ -117,4 +107,3 @@ Other asset
 If you have questions or you want to share comments, we will be glad to hear from you. Please contact us at jorguzman100@gmail.com.
 
 ![GitHubProfilePicture](https://avatars3.githubusercontent.com/u/61070430?s=400&u=2b857b54876d926e32fa510d9363e301820b0c03&v=4)
-
