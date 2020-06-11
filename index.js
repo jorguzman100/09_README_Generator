@@ -183,7 +183,12 @@ To install the project follow these steps:
                     } else {
                         console.log('otherAssets: ', otherAssets);
                         data.otherAssets = otherAssets;
-                        console.log('***** data *****');
+                    }
+                });
+            }
+            askAsset();
+        }
+        console.log('***** data *****');
                         console.log(data);
                         console.log('------------------------- file data -------------------------');
                         fileData = `
@@ -280,10 +285,12 @@ If you have questions or you want to share comments, we will be glad to hear fro
 
 `;
                         console.log(fileData);
-                    }
-                });
+    })
+    .then(() => {
+        fs.writeFile('README-test.md', fileData, (err) => {
+            if (err) {
+                console.log('An error occurred: ', err);
             }
-            askAsset();
-        }
+        });
     });
 
