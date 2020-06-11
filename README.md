@@ -69,7 +69,7 @@ With the described process we were able to create a useful, efficient and respon
 
 **The application**
 
-![Video](./video/appvideo.mp4)
+[Video](https://drive.google.com/file/d/1D7U7N_xBCtMhR-bkJN58lKtO2QH4kNYL/view)
 ![screenshot1](./images/screenshot1.png)
 ![screenshot1](./images/screenshot2.png)
 ![screenshot1](./images/screenshot3.png)
